@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/src/cpp/client/client_interceptor.cc \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/gRPC-C++/gRPC-C++-prefix.pch \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/log.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/support/port_platform.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/port_platform.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/log.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/support/client_interceptor.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/client_interceptor.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/interceptor.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/grpc_types.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/compression_types.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/gpr_types.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/slice.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/gpr_slice.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/status.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/byte_buffer.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/byte_buffer.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/config.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/core_codegen_interface.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/byte_buffer_reader.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_generic.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/atm.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/atm_gcc_atomic.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/sync_posix.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/status.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/status_code_enum.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/serialization_traits.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/slice.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/string_ref.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/metadata_map.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/rpc_method.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/channel_interface.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/gRPC-Core/grpc.framework/Headers/impl/codegen/connectivity_state.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/call.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/call_hook.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/gRPC-C++/include/grpcpp/impl/codegen/time.h

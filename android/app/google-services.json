@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109275156915",
+    "project_id": "reddit-cf4b2",
+    "storage_bucket": "reddit-cf4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109275156915:android:b862d10ed9fcde184c7bc6",
+        "android_client_info": {
+          "package_name": "com.example.reddit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp6FTw3vlWskYUodQUAmjS23kVZ_yF8IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
