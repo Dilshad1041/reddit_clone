@@ -5,6 +5,7 @@ import 'package:reddit/core/constants/firebase_constants.dart';
 import 'package:reddit/core/failure.dart';
 import 'package:reddit/core/providers/firebase_providers.dart';
 import 'package:reddit/core/type_def.dart';
+import 'package:reddit/models/comment_model.dart';
 import 'package:reddit/models/community_model.dart';
 import 'package:reddit/models/post_model.dart';
 
@@ -18,6 +19,9 @@ class PostRepository {
       : _firestore = firestore;
   CollectionReference get _post =>
       _firestore.collection(FirebaseConstants.postsCollection);
+
+  CollectionReference get _comment =>
+      _firestore.collection(FirebaseConstants.commentsCollection);
 
   FutureVoid addPost(Post post) async {
     try {
@@ -60,21 +64,21 @@ class PostRepository {
     }
   }
 
-  void upVote(Post post, String UserId) {
-    if (post.downvotes.contains(UserId)) {
+  void upVote(Post post, String userId) {
+    if (post.downvotes.contains(userId)) {
       _post.doc(post.id).update(
         {
           'downvotes': FieldValue.arrayRemove(
-            [UserId],
+            [userId],
           ),
         },
       );
     }
-    if (post.upvotes.contains(UserId)) {
+    if (post.upvotes.contains(userId)) {
       _post.doc(post.id).update(
         {
           'upvotes': FieldValue.arrayRemove(
-            [UserId],
+            [userId],
           ),
         },
       );
@@ -82,28 +86,28 @@ class PostRepository {
       _post.doc(post.id).update(
         {
           'upvotes': FieldValue.arrayUnion(
-            [UserId],
+            [userId],
           ),
         },
       );
     }
   }
 
-  void downVote(Post post, String UserId) {
-    if (post.upvotes.contains(UserId)) {
+  void downVote(Post post, String userId) {
+    if (post.upvotes.contains(userId)) {
       _post.doc(post.id).update(
         {
           'upvotes': FieldValue.arrayRemove(
-            [UserId],
+            [userId],
           ),
         },
       );
     }
-    if (post.downvotes.contains(UserId)) {
+    if (post.downvotes.contains(userId)) {
       _post.doc(post.id).update(
         {
           'downvotes': FieldValue.arrayRemove(
-            [UserId],
+            [userId],
           ),
         },
       );
@@ -111,16 +115,32 @@ class PostRepository {
       _post.doc(post.id).update(
         {
           'downvotes': FieldValue.arrayUnion(
-            [UserId],
+            [userId],
           ),
         },
       );
     }
   }
 
-  Stream<Post> getPostById(String postID) {
-    return _post.doc(postID).snapshots().map(
+  Stream<Post> getPostById(String postId) {
+    return _post.doc(postId).snapshots().map(
           (event) => Post.fromMap(event.data() as Map<String, dynamic>),
         );
+  }
+
+  FutureVoid addComments(Comments comments) async {
+    try {
+      return right(
+        _comment.doc(comments.id).set(comments.toMap()),
+      );
+    } on FirebaseException catch (e) {
+      throw e.message!;
+    } catch (e) {
+      return left(
+        Failure(
+          e.toString(),
+        ),
+      );
+    }
   }
 }

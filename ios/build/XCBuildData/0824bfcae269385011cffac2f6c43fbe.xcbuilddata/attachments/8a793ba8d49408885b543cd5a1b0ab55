@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseSharedSwift-master.dia",
+    "emit-module-dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseSharedSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseSharedSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseSharedSwift-master.swiftdeps"
+  },
+  "/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift" : {
+    "const-values" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.d",
+    "diagnostics" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.o",
+    "llvm-bc" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.bc",
+    "object" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.o",
+    "swift-dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseRemoteConfigValueDecoding~partial.swiftmodule"
+  },
+  "/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift" : {
+    "const-values" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.swiftconstvalues",
+    "dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.d",
+    "diagnostics" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.o",
+    "llvm-bc" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.bc",
+    "object" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.o",
+    "swift-dependencies" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder.swiftdeps",
+    "swiftmodule" : "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseSharedSwift.build/Objects-normal/x86_64/FirebaseDataEncoder~partial.swiftmodule"
+  }
+}

@@ -6,6 +6,7 @@ import 'package:reddit/core/providers/storage_repository_provider.dart';
 import 'package:reddit/core/utils.dart';
 import 'package:reddit/features/auth/contollers/auth_controller.dart';
 import 'package:reddit/features/posts/repository/post_repository.dart';
+import 'package:reddit/models/comment_model.dart';
 import 'package:reddit/models/community_model.dart';
 import 'package:reddit/models/post_model.dart';
 import 'package:routemaster/routemaster.dart';
@@ -13,8 +14,8 @@ import 'package:uuid/uuid.dart';
 
 final postControllerProvider =
     StateNotifierProvider<PostController, bool>((ref) {
-  final postRepository = ref.read(postRepositoryProvider);
-  final storegeRepository = ref.read(storegeRepositoryProvider);
+  final postRepository = ref.watch(postRepositoryProvider);
+  final storegeRepository = ref.watch(storegeRepositoryProvider);
   return PostController(
       postRepository: postRepository,
       storegeRepository: storegeRepository,
@@ -25,6 +26,10 @@ final userPostProvider =
     StreamProvider.family((ref, List<Community> communities) {
   final postController = ref.watch(postControllerProvider.notifier);
   return postController.fetchUserPosts(communities);
+});
+
+final getPostByIdProvider = StreamProvider.family((ref, String postId) {
+  return ref.watch(postControllerProvider.notifier).getPostById(postId);
 });
 
 class PostController extends StateNotifier<bool> {
@@ -197,5 +202,26 @@ class PostController extends StateNotifier<bool> {
   void downVote(Post post) {
     final userId = _ref.read(userProvider)!.uid;
     _postRepository.downVote(post, userId);
+  }
+
+  Stream<Post> getPostById(String postId) {
+    return _postRepository.getPostById(postId);
+  }
+
+  void addComments(
+      {required String text,
+      required BuildContext context,
+      required Post post}) async {
+    final user = _ref.read(userProvider)!;
+    final commentId = const Uuid().v1();
+    Comments comments = Comments(
+        id: commentId,
+        text: text,
+        createdAt: DateTime.now(),
+        postId: post.id,
+        userName: user.name,
+        profilePic: user.profilePic);
+    final res = await _postRepository.addComments(comments);
+    res.fold((l) => showSnackBar(context, l.message), (r) => null);
   }
 }
