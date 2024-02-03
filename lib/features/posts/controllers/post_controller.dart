@@ -32,6 +32,10 @@ final getPostByIdProvider = StreamProvider.family((ref, String postId) {
   return ref.watch(postControllerProvider.notifier).getPostById(postId);
 });
 
+final getCommentByPostProvider = StreamProvider.family((ref, String postId) {
+  return ref.read(postControllerProvider.notifier).getCommentByPost(postId);
+});
+
 class PostController extends StateNotifier<bool> {
   final PostRepository _postRepository;
   final StoregeRepository _storegeRepository;
@@ -223,5 +227,9 @@ class PostController extends StateNotifier<bool> {
         profilePic: user.profilePic);
     final res = await _postRepository.addComments(comments);
     res.fold((l) => showSnackBar(context, l.message), (r) => null);
+  }
+
+  Stream<List<Comments>> getCommentByPost(String postId) {
+    return _postRepository.getCommentByPost(postId);
   }
 }
