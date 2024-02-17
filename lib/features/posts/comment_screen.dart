@@ -69,7 +69,6 @@ class _CommentScreenState extends ConsumerState<CommentScreen> {
                                 );
                               },
                               error: (error, stackTrace) {
-                                print(error.toString());
                                 return ErrorText(
                                   error: error.toString(),
                                 );
