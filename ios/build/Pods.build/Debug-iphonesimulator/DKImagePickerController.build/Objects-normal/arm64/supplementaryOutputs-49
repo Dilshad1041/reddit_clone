@@ -1,18 +1,18 @@
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailImageCell.swift":
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.d"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.o"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.dia"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.swiftdeps"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.swiftconstvalues"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupDetailVC.swift":
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.d"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.dia"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.o"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.swiftconstvalues"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.swiftdeps"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailCameraCell.swift":
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.swiftconstvalues"
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.d"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.swiftdeps"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.dia"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.o"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailCameraCell.swift":
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.d"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.dia"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.swiftconstvalues"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.swiftdeps"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailCameraCell.o"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/Cell/DKAssetGroupDetailImageCell.swift":
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.d"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.swiftdeps"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.swiftconstvalues"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.o"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailImageCell.dia"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKImagePickerController/Sources/DKImagePickerController/View/DKAssetGroupDetailVC.swift":
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.d"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.swiftconstvalues"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.dia"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.o"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKImagePickerController.build/Objects-normal/arm64/DKAssetGroupDetailVC.swiftdeps"

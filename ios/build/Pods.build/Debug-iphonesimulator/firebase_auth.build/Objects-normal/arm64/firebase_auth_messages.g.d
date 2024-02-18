@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_auth.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/firebase_auth_messages.g.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/firebase_auth_messages.g.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Public/firebase_auth_messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Public/firebase_auth_messages.g.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \

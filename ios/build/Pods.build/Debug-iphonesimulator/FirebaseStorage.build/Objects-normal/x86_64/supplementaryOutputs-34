@@ -1,0 +1,18 @@
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift":
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDeleteTask.swiftconstvalues"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDeleteTask.dia"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDeleteTask.d"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDeleteTask.o"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageDeleteTask.swiftdeps"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift":
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageComponent.swiftconstvalues"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageComponent.o"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageComponent.d"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageComponent.swiftdeps"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageComponent.dia"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift":
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageConstants.swiftdeps"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageConstants.dia"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageConstants.d"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageConstants.swiftconstvalues"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/x86_64/StorageConstants.o"

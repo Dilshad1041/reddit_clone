@@ -6,5 +6,5 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/leveldb-library/port/port_stdcxx.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/leveldb-library/port/thread_annotations.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/leveldb-library/util/coding.h \
-  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/leveldb-library/include/leveldb/slice.h \
-  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/leveldb-library/include/leveldb/export.h
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/slice.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/leveldb-library/leveldb.framework/Headers/export.h

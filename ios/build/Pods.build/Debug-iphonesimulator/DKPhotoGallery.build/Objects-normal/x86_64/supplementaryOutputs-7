@@ -1,18 +1,24 @@
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoProgressIndicator.swift":
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicator.d"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicator.swiftdeps"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicator.o"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicator.dia"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicator.swiftconstvalues"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoProgressIndicatorProtocol.swift":
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicatorProtocol.o"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicatorProtocol.swiftconstvalues"
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicatorProtocol.d"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicatorProtocol.swiftdeps"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoProgressIndicatorProtocol.dia"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/DKPhotoGallery/DKPhotoGallery/DKPhotoPreviewFactory.swift":
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPreviewFactory.d"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPreviewFactory.swiftconstvalues"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPreviewFactory.swiftdeps"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPreviewFactory.dia"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoPreviewFactory.o"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoBasePreviewVC.swift":
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.swiftdeps"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.swiftconstvalues"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.dia"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.d"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBasePreviewVC.o"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/PDFPreview/DKPDFView.swift":
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.swiftconstvalues"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.d"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.o"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.swiftdeps"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPDFView.dia"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/DKPhotoContentAnimationView.swift":
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.swiftconstvalues"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.swiftdeps"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.d"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.dia"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoContentAnimationView.o"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/DKPhotoGallery/DKPhotoGallery/Preview/ImagePreview/DKPhotoBaseImagePreviewVC.swift":
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.swiftconstvalues"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.d"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.dia"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.o"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/DKPhotoGallery.build/Objects-normal/x86_64/DKPhotoBaseImagePreviewVC.swiftdeps"

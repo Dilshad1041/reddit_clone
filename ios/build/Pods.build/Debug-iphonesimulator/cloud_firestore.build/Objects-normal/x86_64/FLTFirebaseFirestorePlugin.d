@@ -1,6 +1,6 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/cloud_firestore.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/FLTFirebaseFirestorePlugin.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/FLTFirebaseFirestorePlugin.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/cloud_firestore/cloud_firestore-prefix.pch \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Headers/Public/Firebase/Firebase.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
@@ -133,18 +133,18 @@ dependencies: \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebaseCorePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePluginRegistry.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTDocumentSnapshotStreamHandler.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTFirebaseFirestoreReader.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTFirebaseFirestoreUtils.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTFirebaseFirestoreExtension.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTLoadBundleStreamHandler.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTQuerySnapshotStreamHandler.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTSnapshotsInSyncStreamHandler.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FLTTransactionStreamHandler.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Public/FirestoreMessages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Private/FirestorePigeonParser.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.13.6/ios/Classes/Public/FLTFirebaseFirestorePlugin.h
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebaseCorePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePluginRegistry.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTDocumentSnapshotStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTFirebaseFirestoreReader.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTFirebaseFirestoreUtils.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTFirebaseFirestoreExtension.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTLoadBundleStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTQuerySnapshotStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTSnapshotsInSyncStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FLTTransactionStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Public/FirestoreMessages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Private/FirestorePigeonParser.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/cloud_firestore-4.15.4/ios/Classes/Public/FLTFirebaseFirestorePlugin.h

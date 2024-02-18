@@ -1,18 +1,18 @@
-"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift":
-  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftdeps"
-  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.dia"
-  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.swiftconstvalues"
-  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.d"
-  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+WriteEncodable.o"
-"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
-  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftdeps"
-  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.dia"
-  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.d"
-  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.swiftconstvalues"
-  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentReference+Codable.o"
-"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
-  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.o"
-  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftconstvalues"
-  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.swiftdeps"
-  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.d"
-  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/DocumentID.dia"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodablePassThroughTypes.swift":
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.dia"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftdeps"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.o"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.swiftconstvalues"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodablePassThroughTypes.d"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/AsyncAwait/CollectionReference+AsyncAwait.swift":
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.d"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.o"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.dia"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftconstvalues"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CollectionReference+AsyncAwait.swiftdeps"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CodableErrors.swift":
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.o"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftconstvalues"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.d"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.swiftdeps"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/CodableErrors.dia"

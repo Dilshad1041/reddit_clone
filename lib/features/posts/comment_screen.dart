@@ -55,27 +55,26 @@ class _CommentScreenState extends ConsumerState<CommentScreen> {
                       border: InputBorder.none,
                     ),
                   ),
-                  Expanded(
-                    child:
-                        ref.watch(getCommentByPostProvider(widget.postId)).when(
-                              data: (data) {
-                                return ListView.builder(
-                                  shrinkWrap: true,
-                                  itemCount: data.length,
-                                  itemBuilder: ((context, index) {
-                                    final comment = data[index];
-                                    return CommentCard(comments: comment);
-                                  }),
-                                );
-                              },
-                              error: (error, stackTrace) {
-                                return ErrorText(
-                                  error: error.toString(),
-                                );
-                              },
-                              loading: () => const Loader(),
+                  ref.watch(getCommentByPostProvider(widget.postId)).when(
+                        data: (data) {
+                          return Expanded(
+                            child: ListView.builder(
+                              shrinkWrap: true,
+                              itemCount: data.length,
+                              itemBuilder: ((context, index) {
+                                final comment = data[index];
+                                return CommentCard(comments: comment);
+                              }),
                             ),
-                  ),
+                          );
+                        },
+                        error: (error, stackTrace) {
+                          return ErrorText(
+                            error: error.toString(),
+                          );
+                        },
+                        loading: () => const Loader(),
+                      ),
                 ],
               );
             },

@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_core.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebaseCorePlugin.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebaseCorePlugin.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebaseCorePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebaseCorePlugin.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
@@ -20,7 +20,7 @@ dependencies: \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
@@ -29,5 +29,5 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePluginRegistry.h
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePluginRegistry.h

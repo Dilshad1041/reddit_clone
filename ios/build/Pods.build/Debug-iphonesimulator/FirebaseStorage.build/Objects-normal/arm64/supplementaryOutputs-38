@@ -1,18 +1,18 @@
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftconstvalues"
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftconstvalues"
-"/Users/dilshadp/reddit_clone/reddit/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
-  diagnostics: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
-  swift-dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
-  const-values: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftconstvalues"
-  object: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
-  dependencies: "/Users/dilshadp/reddit_clone/reddit/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift":
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.o"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.d"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftdeps"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.dia"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Storage.swiftconstvalues"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift":
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.o"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.swiftconstvalues"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.dia"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.d"
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/Result.swiftdeps"
+"/Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift":
+  swift-dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftdeps"
+  object: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.o"
+  dependencies: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.d"
+  const-values: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.swiftconstvalues"
+  diagnostics: "/Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/AsyncAwait.dia"

@@ -29,5 +29,4 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/internal/bits.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc \
-  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/task.h \
-  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/memory/memory.h
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/task.h

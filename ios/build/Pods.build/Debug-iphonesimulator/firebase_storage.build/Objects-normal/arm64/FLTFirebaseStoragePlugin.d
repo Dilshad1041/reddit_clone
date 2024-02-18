@@ -1,6 +1,6 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_storage.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/FLTFirebaseStoragePlugin.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/FLTFirebaseStoragePlugin.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_storage/firebase_storage-prefix.pch \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Headers/Public/Firebase/Firebase.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
@@ -133,10 +133,10 @@ dependencies: \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebaseCorePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePluginRegistry.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/FLTFirebaseStoragePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/firebase_storage_messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/FLTTaskStateChannelStreamHandler.h
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebaseCorePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePluginRegistry.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/FLTFirebaseStoragePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/firebase_storage_messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/FLTTaskStateChannelStreamHandler.h

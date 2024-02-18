@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/google_sign_in_ios.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.1/darwin/Classes/FLTGoogleSignInPlugin.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.4/darwin/Classes/FLTGoogleSignInPlugin.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/google_sign_in_ios/google_sign_in_ios-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.1/darwin/Classes/FLTGoogleSignInPlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.4/darwin/Classes/FLTGoogleSignInPlugin.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
@@ -20,8 +20,8 @@ dependencies: \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterViewController.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.1/darwin/Classes/messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.1/darwin/Classes/FLTGoogleSignInPlugin_Test.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.4/darwin/Classes/messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.4/darwin/Classes/FLTGoogleSignInPlugin_Test.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/GoogleSignIn.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/GTMAppAuth.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \

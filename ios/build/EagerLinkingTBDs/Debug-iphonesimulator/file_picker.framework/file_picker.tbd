@@ -31,7 +31,7 @@
     ],
     "target_info": [
       {
-        "min_deployment": "11",
+        "min_deployment": "14",
         "target": "x86_64-ios-simulator"
       },
       {

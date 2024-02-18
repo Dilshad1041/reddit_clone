@@ -56,7 +56,16 @@ class AuthRepository {
           uid: userCredential.user!.uid,
           isAuthenticated: true,
           karma: 0,
-          award: [],
+          award: [
+            'awesomeAns',
+            'gold',
+            'platinum',
+            'helpful',
+            'plusone',
+            'rocket',
+            'thankyou',
+            'til'
+          ],
         );
 
         await _users.doc(userCredential.user!.uid).set(
@@ -79,7 +88,7 @@ class AuthRepository {
         (event) => UserModel.fromMap(event.data() as Map<String, dynamic>));
   }
 
-  void logOut()async {
+  void logOut() async {
     await _googleSignIn.signOut();
     await _auth.signOut();
   }

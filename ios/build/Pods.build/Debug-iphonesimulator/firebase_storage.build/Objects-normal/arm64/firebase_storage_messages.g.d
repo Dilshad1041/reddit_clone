@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_storage.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/firebase_storage_messages.g.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/firebase_storage_messages.g.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_storage/firebase_storage-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.5.6/ios/Classes/firebase_storage_messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_storage-11.6.5/ios/Classes/firebase_storage_messages.g.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \

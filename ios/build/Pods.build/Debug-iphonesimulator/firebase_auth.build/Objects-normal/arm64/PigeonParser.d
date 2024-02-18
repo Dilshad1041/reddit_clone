@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_auth.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/PigeonParser.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/PigeonParser.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Private/PigeonParser.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Private/PigeonParser.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Headers/Public/Firebase/Firebase.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
@@ -115,4 +115,4 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Typedefs/FIRStorageTypedefs.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-Swift.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Public/firebase_auth_messages.g.h
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Public/firebase_auth_messages.g.h

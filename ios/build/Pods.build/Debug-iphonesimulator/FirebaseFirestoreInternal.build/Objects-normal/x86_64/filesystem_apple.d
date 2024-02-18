@@ -17,12 +17,15 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/string_apple.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/statusor_internals.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/string_format.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/objc/objc_type_traits.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/util/type_traits.h \
+  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/endian.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/casts.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
-  /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/bits.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/internal/bits.h \

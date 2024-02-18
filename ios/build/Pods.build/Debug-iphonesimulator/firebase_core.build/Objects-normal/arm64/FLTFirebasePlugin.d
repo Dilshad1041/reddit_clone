@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_core.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \

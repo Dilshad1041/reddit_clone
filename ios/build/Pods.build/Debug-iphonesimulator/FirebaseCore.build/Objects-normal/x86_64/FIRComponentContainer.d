@@ -7,4 +7,6 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRComponent.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLibrary.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIRLogger.h \
-  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h

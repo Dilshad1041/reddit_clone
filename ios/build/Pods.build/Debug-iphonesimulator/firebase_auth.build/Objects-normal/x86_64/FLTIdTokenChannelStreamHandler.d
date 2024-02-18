@@ -1,8 +1,8 @@
 dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_auth.build/module.modulemap \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/FLTIdTokenChannelStreamHandler.m \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/FLTIdTokenChannelStreamHandler.m \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_auth/firebase_auth-prefix.pch \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Private/FLTIdTokenChannelStreamHandler.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Private/FLTIdTokenChannelStreamHandler.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Modules/module.modulemap \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/Flutter.h \
   /Users/dilshadp/flutter/bin/cache/artifacts/engine/ios/Flutter.xcframework/ios-arm64_x86_64-simulator/Flutter.framework/Headers/FlutterAppDelegate.h \
@@ -132,13 +132,13 @@ dependencies: \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/FirebaseStorage/FirebaseStorage/Typedefs/FIRStorageTypedefs.h \
   /Users/dilshadp/GitHub/reddit_clone/build/ios/Debug-iphonesimulator/FirebaseStorage/FirebaseStorage.framework/Headers/FirebaseStorage-Swift.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Public/CustomPigeonHeader.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Public/firebase_auth_messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Private/PigeonParser.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/ios/Classes/Public/FLTFirebaseAuthPlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Public/CustomPigeonHeader.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Public/firebase_auth_messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Private/PigeonParser.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_auth-4.17.4/ios/Classes/Public/FLTFirebaseAuthPlugin.h \
   /Users/dilshadp/GitHub/reddit_clone/ios/build/Pods.build/Debug-iphonesimulator/firebase_core.build/module.modulemap \
   /Users/dilshadp/GitHub/reddit_clone/ios/Pods/Target\ Support\ Files/firebase_core/firebase_core-umbrella.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebaseCorePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePlugin.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/messages.g.h \
-  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/ios/Classes/FLTFirebasePluginRegistry.h
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebaseCorePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePlugin.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/messages.g.h \
+  /Users/dilshadp/.pub-cache/hosted/pub.dev/firebase_core-2.25.4/ios/Classes/FLTFirebasePluginRegistry.h
